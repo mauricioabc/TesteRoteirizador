@@ -1,3 +1,6 @@
-com\mycompany\testeroteirizador\Connect.class
-com\mycompany\testeroteirizador\Main.class
+com\mycompany\hibernate\Controller.class
 com\mycompany\testeroteirizador\IntegrationAPI.class
+com\mycompany\testeroteirizador\Main.class
+com\mycompany\hibernate\Main.class
+com\mycompany\hibernate\Produto.class
+com\mycompany\testeroteirizador\Connect.class
