@@ -10,10 +10,10 @@ public class Main {
         
         //Insert
         Controller controller = new Controller();
-        //controller.salvarProduto(produto);
+        controller.salvarProduto(produto);
         
         //Update
-        controller.editarProduto("Lápis", 1.50);
+        //controller.editarProduto("Lápis", 1.50);
         
     }
     
